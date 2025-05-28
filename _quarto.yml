@@ -1,19 +1,24 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "mconrad23"
+  title: "Madison Conrad"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: "Home"
+      - href: about.qmd
+        text: "About Me"
+      - href: project.qmd
+        text: "Projects"
+      - href: free.qmd
+        text: "Free for All"
+      - href: resume.qmd
+        text: "Resume"
 
 format:
   html:
-    theme: cosmo
+    theme: journal
     css: styles.css
     toc: true
-
-editor: visual
-

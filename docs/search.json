@@ -1,10 +1,24 @@
 [
   {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Coming soon!"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Coming soon!\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Coming soon!"
   },
   {
     "objectID": "index.html",
@@ -12,5 +26,12 @@
     "title": "mconrad23",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "free.html",
+    "href": "free.html",
+    "title": "Free for All",
+    "section": "",
+    "text": "Coming soon!"
   }
 ]
